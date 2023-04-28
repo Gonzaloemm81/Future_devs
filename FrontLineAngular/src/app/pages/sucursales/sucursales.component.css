@@ -1,0 +1,22 @@
+section{
+    height: auto;
+    width: 60%;
+    background-color: white;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 20px;
+    margin: 30px auto;
+    padding: 5% 10%;
+    
+}
+.map-contenido{
+    display: flex;
+}
+
+
+.secCol3{
+    background-color: rgb(255, 119, 0);}
+iframe{
+        width: 50vw;
+        height: 40vw;
+}    

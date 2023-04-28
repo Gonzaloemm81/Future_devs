@@ -1,0 +1,9 @@
+.carousel-item img{
+    object-fit:cover;
+    overflow: hidden;
+    position: relative;
+    z-index: -1;
+}
+.carousel-caption{
+    z-index: -1;
+}

@@ -1,0 +1,54 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&family=Lexend:wght@400;600;800;900&family=Poppins:ital@1&display=swap');
+*{
+    font-family: 'Lexend', sans-serif;
+    font-weight: 800;
+}
+
+.bodyy{
+    margin: 0;
+    background-color:rgb(209, 209, 209);
+    
+    
+}
+@media (max-width: 980px){
+    #carouselExampleDark{
+        z-index: -1;
+    }}
+
+@media (max-width: 576px){
+    
+    section{
+        width: 100%;
+        border-radius: 0%;
+        margin: 0%;
+    }
+	
+    .input-padron {
+    box-sizing: border-box;
+    max-width: 80%;
+  }
+
+    .secCol2{
+    width: 100%;}
+    
+}
+
+
+form{
+    width: 100%;
+}
+#botonIngresar{
+    background-color: orange;
+}
+#botonOlvidePass{
+background-color: orange;
+}
+.botonNegro{
+    background-color: black;
+}
+.botonNegro:hover{
+    background: orange;
+    transition: .5s;
+    color: black;
+}
